@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(31, 60, 90);
+}
+.container {
+  width: 100vh;
+  max-width: 100vh;
+  display: grid;
+  grid-gap: 10px;
+  margin: 20px;
+}

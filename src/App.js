@@ -1,11 +1,228 @@
-import logo from './logo.svg'
 import './App.css'
+import Images from './Images'
 
 function App() {
   return (
-    <>
-      <h3>Memes Match</h3>
-    </>
+    <div>
+      <div className='container'>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+        <div className='card-outer'>
+          <div className='card'>
+            <div className='front'></div>
+            <div className='back'></div>
+          </div>
+        </div>
+      </div>
+    </div>
   )
 }
 
