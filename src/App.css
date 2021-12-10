@@ -2,6 +2,12 @@ body {
   background-color: rgb(31, 60, 90);
   padding: 20px;
 }
+
+h1 {
+  color: aliceblue;
+  text-align: center;
+}
+
 .container {
   width: calc(100vh - 240px);
   max-width: calc(100vw - 40px);
@@ -43,6 +49,17 @@ body {
 }
 .card-outer.flipped .card {
   transform: rotateY(0);
+}
+
+.score {
+  color: aliceblue;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 2rem;
+  padding: 20px 0;
+  font-size: 2rem;
 }
 
 /* 
