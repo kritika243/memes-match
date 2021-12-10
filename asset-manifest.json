@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/memes-match/static/css/main.bcda32d9.chunk.css",
+    "main.js": "/memes-match/static/js/main.3bec7e6e.chunk.js",
+    "main.js.map": "/memes-match/static/js/main.3bec7e6e.chunk.js.map",
+    "runtime-main.js": "/memes-match/static/js/runtime-main.60ecdc0f.js",
+    "runtime-main.js.map": "/memes-match/static/js/runtime-main.60ecdc0f.js.map",
+    "static/js/2.a3dfb769.chunk.js": "/memes-match/static/js/2.a3dfb769.chunk.js",
+    "static/js/2.a3dfb769.chunk.js.map": "/memes-match/static/js/2.a3dfb769.chunk.js.map",
+    "static/js/3.55e18f17.chunk.js": "/memes-match/static/js/3.55e18f17.chunk.js",
+    "static/js/3.55e18f17.chunk.js.map": "/memes-match/static/js/3.55e18f17.chunk.js.map",
+    "index.html": "/memes-match/index.html",
+    "static/css/main.bcda32d9.chunk.css.map": "/memes-match/static/css/main.bcda32d9.chunk.css.map",
+    "static/js/2.a3dfb769.chunk.js.LICENSE.txt": "/memes-match/static/js/2.a3dfb769.chunk.js.LICENSE.txt",
+    "static/media/01.700c1f6f.jpg": "/memes-match/static/media/01.700c1f6f.jpg",
+    "static/media/02.75682766.jpg": "/memes-match/static/media/02.75682766.jpg",
+    "static/media/03.7614b64f.jpg": "/memes-match/static/media/03.7614b64f.jpg",
+    "static/media/04.b6b76c4b.jpg": "/memes-match/static/media/04.b6b76c4b.jpg",
+    "static/media/05.c961526f.jpg": "/memes-match/static/media/05.c961526f.jpg",
+    "static/media/06.758d07b9.jpg": "/memes-match/static/media/06.758d07b9.jpg",
+    "static/media/07.c844d11f.jpg": "/memes-match/static/media/07.c844d11f.jpg",
+    "static/media/08.c00bd763.jpg": "/memes-match/static/media/08.c00bd763.jpg",
+    "static/media/09.e72a82e7.jpg": "/memes-match/static/media/09.e72a82e7.jpg",
+    "static/media/10.4c2134c1.jpg": "/memes-match/static/media/10.4c2134c1.jpg",
+    "static/media/11.05c13522.jpg": "/memes-match/static/media/11.05c13522.jpg",
+    "static/media/12.ca8c99ab.jpg": "/memes-match/static/media/12.ca8c99ab.jpg",
+    "static/media/13.8a4d796f.jpg": "/memes-match/static/media/13.8a4d796f.jpg",
+    "static/media/14.3ac82930.jpg": "/memes-match/static/media/14.3ac82930.jpg",
+    "static/media/15.7b016eae.jpg": "/memes-match/static/media/15.7b016eae.jpg",
+    "static/media/16.6363775f.jpg": "/memes-match/static/media/16.6363775f.jpg",
+    "static/media/17.f8cae418.jpg": "/memes-match/static/media/17.f8cae418.jpg",
+    "static/media/18.ca09694b.jpg": "/memes-match/static/media/18.ca09694b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60ecdc0f.js",
+    "static/js/2.a3dfb769.chunk.js",
+    "static/css/main.bcda32d9.chunk.css",
+    "static/js/main.3bec7e6e.chunk.js"
+  ]
+}
