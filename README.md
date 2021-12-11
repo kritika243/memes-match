@@ -1,8 +1,8 @@
 # Memes Match
 
-👉_https://kritika243.github.io/memes-match/_👈
+### 👉https://kritika243.github.io/memes-match/👈
 
-### Getting Started with Create React App
+#### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
