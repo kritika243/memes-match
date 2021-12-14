@@ -1,6 +1,6 @@
 # Memes Match
 
-### 👉https://kritika243.github.io/memes-match/👈
+### 👉 https://kritika243.github.io/memes-match/ 👈
 
 #### Getting Started with Create React App
 
